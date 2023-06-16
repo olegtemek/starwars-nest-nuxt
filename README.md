@@ -4,6 +4,7 @@
 * This application work with [Swapi](https://swapi.dev). User can find character, planet, starship by name.
 * You can send a query to search for the same data
 * For backend i use - NestJs. For frontend - NuxtJs. All code on Typescript
+* All project in docker
 
 ## How to install
 
